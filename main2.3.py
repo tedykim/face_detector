@@ -4,7 +4,7 @@ import sys
 import numpy as np
 ######################### daughter수행시 2.1보다 느리게 수행됨. 
 ######################### Dad_daughter 수행은되나 ryan_tran..이 안 나옴
-########## 이부분만 수정되면 완성됨.2.1 ,2.2 는 보관 필요
+########### 이부분만 수정되면 완성됨.2.1 ,2.2 는 보관 필요
 scaler = 0.3
 
 # initialize face detector and shape predictor
